@@ -1,10 +1,12 @@
 <resources>
     <string name="app_name">VideoViewApplication</string>
-    <string name="click_me">Click Me for ScreenSaver!\n
+    <string name="click_me">
+Click Me for ScreenSaver!\n
+\n
 Uses video from:\n
 https://archive.org/details/SlowMotionFlame\n
-"Slow Motion Flame\n
-by Sharuban"\n
+Slow Motion Flame\n
+by Sharuban\n
 Under license https://creativecommons.org/licenses/by/3.0/us/
     </string>
 </resources>
