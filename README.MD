@@ -6,4 +6,6 @@ The gif below shows how it works.
 
 The flame is an mp4 file which is licensed from https://archive.org/details/SlowMotionFlame "Slow Motion Flame by Sharuban" Under a creative commonds license https://creativecommons.org/licenses/by/3.0/us/
 
+I've built another project called [android-webview-screensaver-ontouch](https://github.com/fullStackOasis/android-webview-screensaver-ontouch). It shows a similar example, only the initial `Activity` holds a `WebView` of a webpage.
+
 ![click for screensaver](https://github.com/fullStackOasis/android-demo-video-view-screensaver/raw/master/demo.gif)
